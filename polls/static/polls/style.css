@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+}
+
+li a {
+    color: green;
+}
+
+li a:hover {
+    font-weight: 600;
+}
+
+body {
+    background: white url("images/background.jpeg") no-repeat left bottom;
+}
